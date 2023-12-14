@@ -1,6 +1,7 @@
 import controlP5.*; //import ControlP5 library //<>//
 import processing.serial.*;
 
+// label serial port as port
 Serial port;
 
 ControlP5 cp5; //create ControlP5 object
